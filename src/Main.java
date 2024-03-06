@@ -33,7 +33,7 @@ public class Main {
         }
 
 
-//Задача 3
+          //Задача 3
         for (int i = weight.length - 1; i >= 0; i = i - 1) {
             if (i == 0) {
                 System.out.println(weight[i]);
